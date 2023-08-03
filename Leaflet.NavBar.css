@@ -1,0 +1,24 @@
+.leaflet-control-navbar-fwd {
+	background-image: url("right.jpg");
+}
+
+.leaflet-control-navbar-back {
+	background-image: url("left.jpg");
+}
+
+.leaflet-control-navbar-home {
+	background-image: url("home.jpg");
+}
+
+
+.leaflet-control-navbar-fwd-disabled {
+	background-image: url("rightg.jpg");
+}
+
+.leaflet-control-navbar-back-disabled {
+	background-image: url("leftg.jpg");
+}
+
+.leaflet-control-navbar-home-disabled {
+	background-image: url("homeg.jpg");
+}
